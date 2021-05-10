@@ -2965,7 +2965,9 @@ h3 {
 /* line 61, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_tesmonial.scss */
 .testimonial_area .owl-carousel .owl-item img {
   display: inline-block;
-  width: auto;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
 }
 
 /* line 65, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_tesmonial.scss */

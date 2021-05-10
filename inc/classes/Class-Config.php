@@ -106,6 +106,10 @@ final class Melan {
 		add_image_size( 'melan_portfolio_thumb_656x410', 656, 410, true );
 		add_image_size( 'melan_portfolio_thumb_362x410', 362, 410, true );
 
+		// About thumb size
+		add_image_size( 'melan_about_pattern_thumb_257x279', 257, 279, true );
+		add_image_size( 'melan_about_right_thumb_588x500', 588, 500, true );
+
 		// Latest post thumbnail size
 		add_image_size( 'melan_widget_post_thumb', 80, 80, true );
 
